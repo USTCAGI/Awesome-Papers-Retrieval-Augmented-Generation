@@ -189,6 +189,11 @@ This repository is dedicated to collecting and categorizing papers on Knowledge-
 ## Citation
 if you find this work useful, please cite our paper:
 ```
-
+@article{cheng2025survey,
+  title={A Survey on Knowledge-Oriented Retrieval-Augmented Generation},
+  author={Mingyue Cheng and Yucong Luo and Jie Ouyang and Qi Liu and Huijie Liu and Li Li and Shuo Yu and Bohou Zhang and Jiawei Cao and Jie Ma and Daoyu Wang and Enhong Chen},
+  journal={arXiv preprint arXiv:2503.10677},
+  year={2025}
+}
 ```
 
