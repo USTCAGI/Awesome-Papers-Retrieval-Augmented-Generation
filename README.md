@@ -15,7 +15,7 @@
 
 <div align="center">
 
-**[<a href="https://arxiv.org/abs/2503.10677">Paper Page</a>]**
+**[<a href="https://arxiv.org/abs/2503.10677">Online Paper Download Link</a>]**
 
 </div>
 
