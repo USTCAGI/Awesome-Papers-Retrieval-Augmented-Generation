@@ -258,3 +258,11 @@ This repository is dedicated to collecting and categorizing papers on Knowledge-
 [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2309.15217)
 
 [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
+
+## Contact:
+If you have any questions or suggestions, feel free to contact our team:
+
+Current:
+- Mingyue Cheng (mycheng@ustc.edu.cn)
+- Yucong Luo (prime666@mail.ustc.edu.cn)
+- Jie Ouyang (ouyang_jie@mail.ustc.edu.cn)
