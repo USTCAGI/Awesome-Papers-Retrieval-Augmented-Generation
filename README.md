@@ -259,7 +259,7 @@ This repository is dedicated to collecting and categorizing papers on Knowledge-
 
 [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
 
-## Contact:
+## Contact
 If you have any questions or suggestions, feel free to contact our team:
 
 Current:
