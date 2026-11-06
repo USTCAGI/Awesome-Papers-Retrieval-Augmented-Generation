@@ -79,6 +79,8 @@ This repository is dedicated to collecting and categorizing papers on Knowledge-
 
    • [Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems](https://arxiv.org/pdf/2403.11413)
 
+   • [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/)
+
 2. **Knowledge Source and Parsing**
 
    • [LESS: selecting influential data for targeted instruction tuning](https://arxiv.org/abs/2402.04333)
@@ -122,6 +124,10 @@ This repository is dedicated to collecting and categorizing papers on Knowledge-
    • [Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search](https://aclanthology.org/2023.findings-emnlp.86)
 
    • [ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/abs/2402.13547)
+
+   • [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://openreview.net/forum?id=CyUq9D99vE)
+
+   • [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
 
 7. **Answer Generation**
 
